@@ -47,7 +47,7 @@ SecureBank Terminal is an embedded-systems project that simulates basic ATM oper
 
 ### Hardware Block Diagram
 
-![SecureBank Terminal LPC2148 block diagram](block-diagram.jpg)
+![SecureBank Terminal LPC2148 block diagram](block-diagram.png)
 
 The diagram shows the LPC2148 interfacing with the 4×4 matrix keypad, RFID reader, LCD, buzzer, and Linux PC through the UART0/MAX232 serial link. The RFID reader communicates with the controller through UART1.
 
